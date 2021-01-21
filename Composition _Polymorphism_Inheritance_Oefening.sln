@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition _Polymorphism_Inheritance_Oefening", "Composition _Polymorphism_Inheritance_Oefening\Composition _Polymorphism_Inheritance_Oefening.csproj", "{FB48FB15-3C5D-45C9-A2CE-4D5A20FD676D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB48FB15-3C5D-45C9-A2CE-4D5A20FD676D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB48FB15-3C5D-45C9-A2CE-4D5A20FD676D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB48FB15-3C5D-45C9-A2CE-4D5A20FD676D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB48FB15-3C5D-45C9-A2CE-4D5A20FD676D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {145D9D34-3014-4547-8CAB-89721A17313C}
+	EndGlobalSection
+EndGlobal
